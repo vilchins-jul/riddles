@@ -1,0 +1,22 @@
+.start {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 200px;
+}
+
+.start h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    padding: 0 120px;
+    text-align: center;
+}
+
+.start button {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    padding: 5px 30px;
+    font-size: 40px;
+}
+
